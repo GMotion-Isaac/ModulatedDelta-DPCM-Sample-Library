@@ -12,3 +12,5 @@ In this GitHub repository, go to the **Pull Requests** tab and initiate a new Pu
 5. Your sample should follow this name formatting: `MDUserGenerated_[yourusername]_[category][presetnumber]_[rootnote]`, for example `MDUserGenerated_CoolDuck645_PunchyBassSlap08_A#.dcm`. If your sample's name does not follow this formatting, the reviewing process will rename it back to the formatting type. Please make sure your username doesn't include sensitive data like real names or it will be replaced with your MD Library ID. You can also use aliases.
 #### Important note when uploading your DPCM Samples.
 A new folder will be created with your MD Library ID and for each sample category with the preset number that is uploaded a new folder inside your MD Library ID will be added.
+# Getting more information
+To get more information, go to the `documentations` folder! There you will find guides and library documentations.
